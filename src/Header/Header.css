@@ -1,0 +1,19 @@
+ .header-container {
+    color: rgb(204, 80, 8);
+    /* color: rgb(250, 235, 214); */
+    font-family: 'Barriecito', cursive; 
+    padding: 15px;
+    font-size: 2em;
+  }
+ header {
+   text-align: right;
+ }
+  @media (min-width: 600px) {
+    header {
+      width: 63%;
+      align-items: flex-end;
+      margin-left: auto; 
+      text-align: left;
+    }
+  }  
+

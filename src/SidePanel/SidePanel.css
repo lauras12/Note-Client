@@ -1,0 +1,23 @@
+ .side-panel {
+    margin: 15px ;
+ }
+.folders-header-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.folders-header {
+    font-family: 'Barriecito', cursive;
+    color: rgb(204, 80, 8);
+    padding: 10px; 
+    font-size: 2em;
+}
+ 
+@media (min-width: 600px) {
+    .side-panel {
+        flex: 1;
+        margin: 0;
+        /* border-right: solid rgb(23, 23, 56) 5px; */
+    }
+  }  
+

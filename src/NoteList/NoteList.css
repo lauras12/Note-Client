@@ -1,0 +1,32 @@
+.note-list {
+    margin: 15px;
+}
+.noteList-header-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+} 
+.li2 {
+    color: black;
+    display: flex;
+    padding: 10px;
+}
+.link2 {
+    text-decoration: none;
+    color:rgb(150, 74, 3);
+    margin: 0 auto;
+  }
+.noteList-header {
+    font-family: 'Barriecito', cursive;
+    color:rgb(204, 80, 8);
+    padding: 10px;
+    font-size: 2em;
+  
+} 
+@media (min-width: 600px) {
+    .note-list {
+        flex: 2;
+        margin: 0;
+    }
+  }  
+ 

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SidePanel component renders the UI as expected 1`] = `
+<div
+  className="side-panel"
+>
+  <div
+    className="folders-header-container"
+  >
+    <a
+      className="link"
+      href="/newFolder"
+      onClick={[Function]}
+    >
+      <button
+        className="add-folder"
+        type="button"
+      >
+        Add Folder
+      </button>
+    </a>
+    <h2
+      className="folders-header"
+    >
+      Note Folders
+    </h2>
+  </div>
+</div>
+`;
