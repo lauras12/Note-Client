@@ -1,5 +1,5 @@
 .note {
-        background-color: rgb(250, 235, 214); 
+        background-color: grey; 
         /* background-color:  rgb(37, 37, 88); */
         cursor: pointer; 
         padding: 10px;
@@ -14,12 +14,7 @@
          height: auto;
          /* text-align: center; */
      }
-    .delete-button2 {
-        color: black;
-        background-color: rgb(250, 235, 214);
-         /* background-color:  rgb(37, 37, 88); */
-        font-size: 25px;
-    }  
+
     .date {
         display: block;
         padding: 10px;

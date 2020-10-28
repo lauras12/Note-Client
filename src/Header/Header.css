@@ -1,7 +1,6 @@
  .header-container {
-    color: rgb(204, 80, 8);
-    /* color: rgb(250, 235, 214); */
-    font-family: 'Barriecito', cursive; 
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif; 
     padding: 15px;
     font-size: 2em;
   }

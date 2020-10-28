@@ -1,9 +1,9 @@
 .open-note {
-    color: black;
+    color: grey;
     display: block;
 }
 .open-note2 {
-    color:rgb(150, 74, 3);
+    color:blue;
 }
 .openNote {
     display: flex;
@@ -15,7 +15,7 @@
 
 .content-container {
     display: block;
-    background-color: rgb(158, 156, 154);
+    background-color: lightgray;
     padding: 30px;
     padding-bottom: 100px;
 }

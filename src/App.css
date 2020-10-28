@@ -1,7 +1,7 @@
 main { 
-  color: rgb(250, 235, 214);
-  font-size: 1.2rem;
-  background-color: rgb(61, 58, 66);
+  color: whitesmoke;
+  font-size: 18px;
+  background-color: white;
   padding-bottom: 200px;
 }
 ul, li ,p , h3, h2, h1{
@@ -13,21 +13,10 @@ ul, li ,p , h3, h2, h1{
 h3 {
   font-weight: normal;
 }
+
 a {
   text-decoration: none;
   padding: 10px;
-}
-
-.link {
-  text-decoration: none;
-  color:rgb(251, 178, 110);
-}
-.link:hover {
-  color: rgb(226, 146, 146);
-  cursor: pointer;
-}
-.active {
-  color: rgb(156, 36, 6);
 }
 
 

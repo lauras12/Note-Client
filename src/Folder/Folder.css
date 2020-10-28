@@ -1,6 +1,6 @@
  .folder {
     cursor: pointer; 
-    background-color: rgb(23, 23, 56);
+    background-color: lightgray;
     padding: 10px;
     margin-bottom: 15px;
 } 
@@ -13,12 +13,12 @@
     flex: 1.5;
  }
  .delete-button {
-    background-color: rgb(23, 23, 56);
+    background-color: white;
     font-size: 25px;
  } 
  
    .amount {
-     font-family: 'Barriecito'; 
+     font-family: Arial, Helvetica, sans-serif; 
      font-size:40px;
      padding: 5px;
      display: inline;
